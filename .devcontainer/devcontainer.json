@@ -12,7 +12,8 @@
 				"ms-toolsai.jupyter-keymap",
 				"ms-toolsai.vscode-jupyter-cell-tags",
 				"ms-toolsai.jupyter",
-				"kenhowardpdx.vscode-gist"
+				"kenhowardpdx.vscode-gist",
+				"mechatroner.rainbow-csv"
 			]
 		}
 	},
