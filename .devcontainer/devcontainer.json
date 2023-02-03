@@ -16,5 +16,5 @@
 			]
 		}
 	},
-    "postCreateCommand": "pip install --user -r requirements.txt;python -m spacy download de"
+    "postCreateCommand": "chmod +x build.sh && ./build.sh"
 }
